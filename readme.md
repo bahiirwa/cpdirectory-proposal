@@ -26,4 +26,3 @@ See the screenshot below:
 ## Filter Hooks
 
 ### Action Hooks
-`do_action( 'add_blockli_submenu_items' )`  - Adds new items to the menu after the settings panel. No arguments passed.
